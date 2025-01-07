@@ -6,7 +6,7 @@ This script simulate the ATM operations that most of us have to deal with it fro
 #### My Goal behind this Script
 * Push myself into making projects or practicing what I'm learning. That will give me hands-on experince.
 * Encourage others to simulate the real-world scenario. That is very helpful in upgrading your coding skills.
-* 
+
 
 ### Included Features
 * Password Validation
